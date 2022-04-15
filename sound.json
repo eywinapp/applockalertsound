@@ -11,10 +11,10 @@
   {"id":"9", "name":"9_p_intruder_alert.mp3"},
   {"id":"10", "name":"10_p_no.mp3"},
   {"id":"11", "name":"11_p_red_handed.mp3"},
-  {"id":"12", "name":"12_p_scream_2.mp3.mp3"},
-  {"id":"13", "name":"13_p_siren.mp3.mp3"},
-  {"id":"14", "name":"14_p_virus_detected.mp3.mp3"},
-  {"id":"14", "name":"15_p_wind.mp3.mp3.mp3"},
-  {"id":"14", "name":"16_p_yuck.mp3.mp3.mp3"},
+  {"id":"12", "name":"12_p_scream_2.mp3"},
+  {"id":"13", "name":"13_p_siren.mp3"},
+  {"id":"14", "name":"14_p_virus_detected.mp3"},
+  {"id":"14", "name":"15_p_wind.mp3"},
+  {"id":"14", "name":"16_p_yuck.mp3"},
 ]
 }
