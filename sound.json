@@ -62,7 +62,7 @@
      "isChecked":false,
     "isPremium": true,
     "viewType": 1
-  }
+  },
    {
     "id": 8,
     "name": "Enemy",
@@ -70,7 +70,7 @@
      "isChecked":false,
     "isPremium": true,
     "viewType": 1
-  }
+  },
  {
     "id": 9,
     "name": "Enemy",
@@ -78,7 +78,7 @@
      "isChecked":false,
     "isPremium": true,
     "viewType": 1
-  }
+  },
  {
     "id": 10,
     "name": "Enemy",
@@ -86,7 +86,7 @@
      "isChecked":false,
     "isPremium": true,
     "viewType": 1
-  }
+  },
  {
     "id": 11,
     "name": "Enemy",
@@ -94,7 +94,7 @@
      "isChecked":false,
     "isPremium": true,
     "viewType": 1
-  }
+  },
  {
     "id": 12,
     "name": "Enemy",
@@ -102,7 +102,7 @@
      "isChecked":false,
     "isPremium": true,
     "viewType": 1
-  }
+  },
  {
     "id": 13,
     "name": "Enemy",
@@ -110,7 +110,7 @@
      "isChecked":false,
     "isPremium": true,
     "viewType": 1
-  }
+  },
  {
     "id": 14,
     "name": "Enemy",
@@ -118,7 +118,7 @@
      "isChecked":false,
     "isPremium": true,
     "viewType": 1
-  }
+  },
  {
     "id": 15,
     "name": "Enemy",
@@ -126,7 +126,7 @@
      "isChecked":false,
     "isPremium": true,
     "viewType": 1
-  }
+  },
 {
     "id": 16,
     "name": "Enemy",
