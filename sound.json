@@ -5,7 +5,8 @@
     "post_url": "0_f_meow.mp3",
     "isChecked":false,
     "isPremium": false,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
   {
     "id": 1,
@@ -13,7 +14,8 @@
     "post_url": "1_f_scream.mp3",
      "isChecked":false,
     "isPremium": false,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
   {
     "id": 2,
@@ -21,7 +23,8 @@
     "post_url": "2_f_spew.mp3",
      "isChecked":false,
     "isPremium": false,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
   {
     "id": 3,
@@ -29,7 +32,8 @@
     "post_url": null,
      "isChecked":false,
     "isPremium": false,
-    "viewType": 2
+    "viewType": 2,
+    "isDownload":"NOT_DOWNLOAD"
   },
   {
     "id": 4,
@@ -37,7 +41,8 @@
     "post_url": "4_p_alarm.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
   {
     "id": 5,
@@ -45,7 +50,8 @@
     "post_url": "5_p_bad_man.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
   {
     "id": 6,
@@ -53,7 +59,8 @@
     "post_url": "6_p_devil.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
   {
     "id": 7,
@@ -61,7 +68,8 @@
     "post_url": "7_p_enemy.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
    {
     "id": 8,
@@ -69,7 +77,8 @@
     "post_url": "8_p_game_over.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
  {
     "id": 9,
@@ -77,7 +86,8 @@
     "post_url": "9_p_intruder_alert.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
  {
     "id": 10,
@@ -85,7 +95,8 @@
     "post_url": "10_p_no.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
  {
     "id": 11,
@@ -93,7 +104,8 @@
     "post_url": "11_p_red_handed.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
  {
     "id": 12,
@@ -101,7 +113,8 @@
     "post_url": "12_p_scream_2.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
  {
     "id": 13,
@@ -109,7 +122,8 @@
     "post_url": "13_p_siren.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
  {
     "id": 14,
@@ -117,7 +131,8 @@
     "post_url": "14_p_virus_detected.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
  {
     "id": 15,
@@ -125,7 +140,8 @@
     "post_url": "15_p_wind.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   },
 {
     "id": 16,
@@ -133,6 +149,7 @@
     "post_url": "16_p_yuck.mp3",
      "isChecked":false,
     "isPremium": true,
-    "viewType": 1
+    "viewType": 1,
+    "isDownload":"NOT_DOWNLOAD"
   }
 ]
